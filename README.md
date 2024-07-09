@@ -9,6 +9,13 @@
 - Robust backend systems using Node.js, Express, Spring Boot, and .NET Core, ensuring high performance and reliability through RESTful APIs and GraphQL.</p>
 ```
 
+🌱 I am well versed in:
+```
+Programming Languages: Java, C#, JavaScript (including ES6+), TypeScript, Python, SQL
+Frontend: React.js, Redux, Next.js, Vue.js, Bootstrap, Tailwind CSS, Angular, HTML, CSS, Webpack, Storybook, Sass
+Backend: Node.js, Express, Go, Spring Boot, .NET Core, RESTful API, GraphQL, MongoDB, MySQL, PostgreSQL
+Tools & Others: AWS, Docker,CI/CD pipelines, JUnit, Jest, Enzyme, Cypress, Mockito
+```
 <!--
 **sindhukrovvidi/sindhukrovvidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
