@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I am a passionate Software Developer specializing in Full Stack and Frontend development.I have a strong background in building scalable web applications and crafting intuitive user experiences. Currently pursuing my Master's in Computer Science at Northeastern University, I thrive on leveraging cutting-edge technologies to solve complex problems.
 <!--
 **sindhukrovvidi/sindhukrovvidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
