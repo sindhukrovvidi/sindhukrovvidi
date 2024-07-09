@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
-🌱 I am a passionate Software Developer specializing in **Full Stack** and **Frontend development**.I have a strong background in building scalable web applications and crafting intuitive user experiences and well-versed in AWS cloud platforms . Currently pursuing my Master's in Computer Science at Northeastern University, I thrive on leveraging cutting-edge technologies to solve complex problems.
+🌱 I am a passionate Software Developer specializing in **Full Stack** and **Frontend development**. With over 4.5 years of experince, I have a strong background in building scalable web applications and crafting intuitive user experiences and well-versed in AWS cloud platforms . Currently pursuing my Master's in Computer Science at Northeastern University, I thrive on leveraging cutting-edge technologies to solve complex problems.
 
 🌱 My professional work includes developing:
 ```
