@@ -13,6 +13,7 @@
     <p>Advanced frontend solutions with React.js, Redux, Next.js, Vue.js, and Angular to enhance user interaction and experience.</p>
     <p>Robust backend systems using Node.js, Express, Spring Boot, and .NET Core, ensuring high performance and reliability through RESTful APIs and GraphQL.</p>
 </div>
+```
 
 <!--
 **sindhukrovvidi/sindhukrovvidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
