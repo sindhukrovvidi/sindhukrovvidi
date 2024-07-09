@@ -4,9 +4,9 @@
 
 🌱 My professional work includes developing:
 ```
-- Scalable full-stack responsive web applications using MERN and MEAN stack</p>
-- Advanced frontend solutions with React.js, Redux, Next.js, Vue.js, and Angular to enhance user interaction and experience.</p>
-- Robust backend systems using Node.js, Express, Spring Boot, and .NET Core, ensuring high performance and reliability through RESTful APIs and GraphQL.</p>
+- Scalable full-stack responsive web applications using MERN and MEAN stack.
+- Advanced frontend solutions with React.js, Redux, Next.js, Vue.js, and Angular to enhance user interaction and experience.
+- Robust backend systems using Node.js, Express, Spring Boot, and .NET Core, ensuring high performance and reliability through RESTful APIs and GraphQL.
 ```
 
 🌱 I am well versed in:
