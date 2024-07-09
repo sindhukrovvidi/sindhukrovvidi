@@ -16,6 +16,13 @@ Frontend: React.js, Redux, Next.js, Vue.js, Bootstrap, Tailwind CSS, Angular, HT
 Backend: Node.js, Express, Go, Spring Boot, .NET Core, RESTful API, GraphQL, MongoDB, MySQL, PostgreSQL
 Tools & Others: AWS, Docker,CI/CD pipelines, JUnit, Jest, Enzyme, Cypress, Mockito
 ```
+⚡ In my free time, I globe-trot to soak up new cultures, unwind on hidden beaches, and get lost in thrilling TV series.
+
+Connect with me 🔗
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sindhukrovvidi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindhukrovvidi/)
+
 <!--
 **sindhukrovvidi/sindhukrovvidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
